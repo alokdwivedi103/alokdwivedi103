@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Alok Dwivedi
 
 I'm a passionate **Software Engineer** specializing in **JavaScript** technologies, focused on building **full-stack** applications. I enjoy crafting user-friendly and performant web solutions using modern tools like **Next.js**, **Node.js**, and **TypeScript**. I thrive on problem-solving and continuously expanding my knowledge through **open-source contributions**, personal projects, and **competitive programming**.
 
