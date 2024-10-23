@@ -36,6 +36,6 @@ I'm a passionate **Software Engineer** specializing in **JavaScript** technologi
 ## 🌍 Connect with Me
 
 - **GitHub**: [github.com/alokdwivedi103](https://github.com/alokdwivedi103)
-- **LinkedIn**: [linkedin.com/in/alokdwivedi]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/alok-dwivedi-2832122b1/))
+- **LinkedIn**: [https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/alok-dwivedi-2832122b1/]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/alok-dwivedi-2832122b1/))
 
 Let's build something amazing together! 🚀
