@@ -1,41 +1,68 @@
-# Hi there! 👋 I'm Alok Dwivedi
+# Hi there! 👋 I'm **Alok Dwivedi**
 
-I'm a passionate **Software Engineer** specializing in **JavaScript** technologies, focused on building **full-stack** applications. I enjoy crafting user-friendly and performant web solutions using modern tools like **Next.js**, **Node.js**, and **TypeScript**. I thrive on problem-solving and continuously expanding my knowledge through **open-source contributions**, personal projects, and **competitive programming**.
+I'm a **Software Engineer** passionate about crafting innovative and efficient **full-stack web applications** with modern **JavaScript** technologies. I specialize in building robust and user-friendly solutions using **Next.js**, **Node.js**, and **TypeScript**. When I'm not developing, I'm contributing to the **open-source** community or honing my skills through **hackathons** and **competitive programming**.
 
-## 🚀 What I Do
+---
 
-- **Full-Stack Development**: I work with JavaScript frameworks like **Next.js**, **React**, **Express**, and **Node.js** to build scalable and robust applications.
-- **Open Source**: Actively contributing to the community through open-source projects, including participating in events like **Hacktoberfest**.
-- **Hackathons**: Compete in hackathons, collaborating with like-minded developers to build innovative projects under time constraints.
-- **LeetCode**: I solve algorithmic challenges to improve my problem-solving skills and compete in coding competitions.
-- **Personal Projects**: Building my own projects to experiment with new ideas and technologies.
+## 🚀 **What I Do**
 
-## 🛠️ Tech Stack
+🌍 **Full-Stack Development**  
+I create seamless digital experiences with frameworks like **Next.js**, **React**, **Express**, and **Node.js**. From front-end interfaces to back-end APIs, I aim to build applications that are fast, scalable, and intuitive.
 
-- **Languages**: JavaScript (ES6+), TypeScript, HTML, CSS
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Databases**: MongoDB, PostgreSQL
-- **Other Tools**: Git, Docker, GitHub Actions, Vercel
+🌱 **Open Source Contributions**  
+As a firm believer in the power of collaboration, I actively contribute to **open-source** projects, especially during events like **Hacktoberfest**, where I give back to the community.
 
-## 🌱 Currently Exploring
+⚡ **Hackathons**  
+I thrive in the competitive, fast-paced environment of **hackathons**, collaborating with teams to deliver innovative solutions within tight deadlines.
 
-- **Web Performance**: Improving the speed and scalability of applications.
-- **Serverless Architecture**: Exploring serverless solutions for building lightweight and scalable services.
-- **LeetCode Challenges**: Regularly working on LeetCode to enhance my data structure and algorithm skills.
+💡 **LeetCode & Problem Solving**  
+I enjoy solving algorithmic problems on **LeetCode** to stay sharp and up-to-date with the latest techniques in data structures and algorithms.
 
-## 📈 GitHub Stats
+---
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokdwivedi103&show_icons=true&hide_border=true)](https://github.com/alokdwivedi103)
+## 🛠️ **Tech Stack**
 
-## 🏆 Achievements
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,mongodb,postgres,git,docker,vercel" alt="Tech stack logos" />
+</div>
 
-- Completed **Hacktoberfest** challenges by contributing to open-source projects.
-- Irregular participant in **competitive programming** on platforms like LeetCode.
+---
 
-## 🌍 Connect with Me
+## 🌟 **Current Focus**
 
-- **GitHub**: [github.com/alokdwivedi103](https://github.com/alokdwivedi103)
-- **LinkedIn**: (https://www.linkedin.com/in/alok-dwivedi-2832122b1/)
+- **Web Performance**: Optimizing applications for speed and scalability.
+- **Serverless Architectures**: Exploring serverless solutions for lightweight, scalable services.
+- **Algorithm Challenges**: Tackling **LeetCode** problems to stay competitive and sharp.
 
-Let's build something amazing together! 🚀
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokdwivedi103&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+</div>
+
+---
+
+## 🏆 **Achievements**
+
+- Completed **Hacktoberfest** by contributing to several **open-source** projects.
+- Participated in numerous **hackathons**, building innovative and practical solutions.
+- Occasional participant in **competitive programming** contests on platforms like **LeetCode**.
+
+---
+
+## 🌐 **Let's Connect!**
+
+<div align="center">
+  <a href="https://github.com/alokdwivedi103">
+    <img src="https://img.shields.io/badge/GitHub-alokdwivedi103-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/alok-dwivedi-2832122b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alok%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+Let's collaborate and build something **amazing** together! 🚀
