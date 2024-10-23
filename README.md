@@ -26,18 +26,16 @@ I'm a passionate **Software Engineer** specializing in **JavaScript** technologi
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokdwivedi103&show_icons=true&hide_border=true)](https://github.com/alokdwivedi103)
 
 ## 🏆 Achievements
 
-- Participated in multiple **Hackathons** and won awards for innovative solutions.
 - Completed **Hacktoberfest** challenges by contributing to open-source projects.
-- Regular participant in **competitive programming** on platforms like LeetCode.
+- Irregular participant in **competitive programming** on platforms like LeetCode.
 
 ## 🌍 Connect with Me
 
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
-- **Twitter**: [twitter.com/yourhandle](https://twitter.com/yourhandle)
+- **GitHub**: [github.com/alokdwivedi103](https://github.com/alokdwivedi103)
+- **LinkedIn**: [linkedin.com/in/alokdwivedi]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/alok-dwivedi-2832122b1/))
 
 Let's build something amazing together! 🚀
