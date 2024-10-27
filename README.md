@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm **Alok Dwivedi**
 
-[![An image of @alokdwivedi103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alokdwivedi103)](https://holopin.io/@alokdwivedi103)
-
 I'm a **Software Engineer** passionate about crafting innovative and efficient **full-stack web applications** with modern **JavaScript** technologies. I specialize in building robust and user-friendly solutions using **Next.js**, **Node.js**, and **TypeScript**. When I'm not developing, I'm contributing to the **open-source** community or honing my skills through **hackathons** and **competitive programming**.
 
 ---
